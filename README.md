@@ -74,7 +74,6 @@
 ### 📫 Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/shalinit3)
-- [GitHub](https://github.com/Shalinit3)
 - 📧 [shalinityagi64@gmail.com](mailto:shalinityagi64@gmail.com)
 
 <p align="center">
